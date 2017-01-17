@@ -8,7 +8,7 @@
 
     $ bower init
     
-        ? name Dashboard Bootstrap Redmine Style 
+        ? name bootstrap-redmine
         ? description Dashboard Bootstrap Redmine style, including Mootools Plugins
         ? main file 
         ? keywords redmine,mootools,jquery
@@ -48,7 +48,7 @@
 
    $ bower install <package> --save
 
-5. En el directorio local del repositorio, registrar el repositorio de github en bower.io
+5 . En el directorio local del repositorio, registrar el repositorio de github en bower.io
    
    $ bower register dashboar-redmine-style https://github.com/pepeul1191/dashboard-redmine.git
 

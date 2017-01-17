@@ -2,3 +2,4 @@
 
 ---
 
+	$ bower install --save dashboard-redmine-style
