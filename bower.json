@@ -4,7 +4,7 @@
   "authors": [
     "Pepe Valdivia <jvaldivia@softweb.pe>"
   ],
-  "description": "Dashboard Bootstrap Redmine style, including Mootools Plugins",
+  "description": "Dashboard Bootstrap Redmine style",
   "main": "",
   "keywords": [
     "redmine",
@@ -22,8 +22,6 @@
   "dependencies": {
     "jquery": "2.2.4",
     "bootstrap": "boostrap#^3.3.7",
-    "font-awesome": "^4.6.3",
-    "requirejs": "^2.3.2",
-    "underscore": "^1.8.3"
+    "font-awesome": "^4.6.3"
   }
 }
