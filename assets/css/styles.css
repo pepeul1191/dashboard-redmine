@@ -4,6 +4,7 @@ body{font-size: 12px; background: #F1EFE2; margin: 5px}
 .lista-header { list-style-type: none; margin: 0; padding: 0; }
 header{width: 100%; position: relative; float: left; background: #507AAA;}
 header>.row{padding-left: 2.5px; padding-right: 2.5px; }
+.titulo{font-size: 25px;    margin-top: 5px;}
 .panel-app{background: #2C4056;     margin-right: 0px;};
 .titulo-app{color: #FFFFFF; margin-bottom: 5px;}
 .lista-header>li>a{color: #FFFFFF; font-weight: 600}
