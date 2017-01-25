@@ -23,3 +23,10 @@ footer{color: #888; padding-left: 10px; padding-right: 10px;}
 .color-success{color: #3c763d;}
 .oculto{display: none}
 label{font-weight: 300;}
+.form-control{font-size: 12px; padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; border-radius: 0px; height: 30px;}
+.workspace-form{padding-right: 10px}
+.boton-app{color: #343434 !important;background-color: #E9E9E9 !important;border-color: #cccccc !important; font-size: 12px; border-radius: 0px; padding-left: 10px;
+    padding-right: 10px; top: 3px; padding-bottom: 3px;height: 30px;}
+.boton-app:hover{color: #343434 !important; background-color: #cccccc !important;}
+.boton-app>i{margin-right:5px}
+.form-group>.boton-app{float: right; margin-top: 22px}
